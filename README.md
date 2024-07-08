@@ -10,3 +10,9 @@
 ## 我们希望产出一个产品，能够自动分析评论，并且回复这些评论
 ![image](https://github.com/kiwi-chanN/files/assets/168921299/ebc4ea5a-f72d-467c-947b-ded1b6c3247a)
 
+## 这个文件夹总有4个文件
+## 第一个是embedding，负责将自然语言计算成向量
+## 第二个是matching，将概念的向量和评论的向量进行匹配
+## 第三个optimization，负责优化其中的阈值
+## 第四个是前端，我使用streamlit简单制作了一个可视化前端
+![image](https://github.com/kiwi-chanN/NLPbase/assets/168921299/d69f9f9e-45df-44e2-8afd-9ca4ef79d15a)
