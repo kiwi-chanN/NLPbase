@@ -15,4 +15,5 @@
 ## 第二个是matching，将概念的向量和评论的向量进行匹配
 ## 第三个optimization，负责优化其中的阈值
 ## 第四个是前端，我使用streamlit简单制作了一个可视化前端
-![image](https://github.com/kiwi-chanN/NLPbase/assets/168921299/d69f9f9e-45df-44e2-8afd-9ca4ef79d15a)
+![image](https://github.com/kiwi-chanN/NLPbase/assets/168921299/235e4756-804c-4f22-9b8e-d071be0bc96f)
+
