@@ -10,6 +10,6 @@
 ### 第一个是embedding，负责将自然语言计算成向量
 ### 第二个是matching，将概念的向量和评论的向量进行匹配
 ### 第三个optimization，负责优化其中的阈值
-### 第四个是前端，我使用streamlit简单制作了一个可视化前端
+### 第四个是交互原型，我使用streamlit简单制作了一个可视化前端
 ![image](https://github.com/kiwi-chanN/NLPbase/assets/168921299/235e4756-804c-4f22-9b8e-d071be0bc96f)
 
